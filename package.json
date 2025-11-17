@@ -1,13 +1,17 @@
 {
   "name": "rtwm",
   "version": "1.0.0",
-  "type": "module",
+  "description": "Real Time Website Monitoring Backend",
+  "main": "index.js",
   "scripts": {
-    "bulid": "npm install",
+    "build": "npm install",
     "start": "node index.js"
   },
+  "author": "Sholehuddin",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.19.2",
-    "node-fetch": "^3.3.2"
+    "express": "^4.19.0",
+    "node-fetch": "^3.3.2",
+    "cors": "^2.8.5"
   }
 }

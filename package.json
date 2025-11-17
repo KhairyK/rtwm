@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "bulid": "npm install",
+    "bulid": "node install",
     "start": "node run bulid"
   },
   "dependencies": {

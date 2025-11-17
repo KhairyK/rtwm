@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "bulid": "npm install",
-    "start": "node run bulid"
+    "start": "node dist/status.js"
   },
   "dependencies": {
     "express": "^4.19.2",

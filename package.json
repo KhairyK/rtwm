@@ -1,6 +1,7 @@
 {
   "name": "rtwm",
   "version": "1.0.0",
+  "type": "module", 
   "description": "Real Time Website Monitoring Backend",
   "main": "index.js",
   "scripts": {
